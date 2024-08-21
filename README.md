@@ -32,3 +32,27 @@ For more details about the NICT solar observation database, visit their website:
    ```bash
    pip install -r requirements.txt
    ```
+   
+## Usage
+
+As of now, the scrapper is present in a jupyter notebook. To use, just modify the configuration variables as per your choice and then run the whole notebook.
+A python script will be uploaded later.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Citation
+
+If you use this web scraper in your research or projects, please cite it as follows:
+
+```
+@software{nict_solar_spectra_scraper,
+  author = {Girik Khullar},
+  title = {NICT Solar Spectra Scraper},
+  version = {1.0},
+  url = {https://github.com/Girik-Khullar/NICT-Solar-Observation-Scraper},
+  year = {2024}
+}
+
+```
