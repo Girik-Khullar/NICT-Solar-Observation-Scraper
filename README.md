@@ -54,5 +54,8 @@ If you use this web scraper in your research or projects, please cite it as foll
   url = {https://github.com/Girik-Khullar/NICT-Solar-Observation-Scraper},
   year = {2024}
 }
-
 ```
+
+## Contributing
+
+Feel free to open issues or submit pull requests. Contributions are welcome!
