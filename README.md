@@ -38,7 +38,7 @@ For more details about the NICT solar observation database, visit their website:
 As of now, the scrapper is present in a jupyter notebook. To use, just modify the configuration variables as per your choice and then run the whole notebook.
 A python script will be uploaded later.
 
-<video src="https://github.com/Girik-Khullar/NICT-Solar-Observation-Scraper/blob/main/Scrapper%20Demo.mp4" width="300" />
+[Watch the video](https://github.com/Girik-Khullar/NICT-Solar-Observation-Scraper/blob/main/Scrapper%20Demo.mp4)
 
 ## License
 
