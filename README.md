@@ -16,6 +16,7 @@ For more details about the NICT solar observation database, visit their website:
 - Extracts solar radio dynamic spectra data.
 - Supports data retrieval from HiRAS and YAMAGAWA datasets.
 - Easy to use and customize.
+- A custom mini parser was developed to solve the captcha on the website bypassing the human effort needed and automating it entirely.
 
 ## Installation
 
